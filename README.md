@@ -62,16 +62,16 @@
 <h4>Alat Desain</h4>
 <p>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
-    <img src="https://example.com/figma-icon.png" alt="Figma" width="40" height="40"/> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/figma.svg" alt="sukron" height="30" width="40" /> 
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://example.com/illustrator-icon.png" alt="Adobe Illustrator" width="40" height="40"/> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/illustrator.svg" alt="sukron" height="30" width="40" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://example.com/photoshop-icon.png" alt="Adobe Photoshop" width="40" height="40"/> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/photoshop.svg" alt="sukron" height="30" width="40" />
   </a>
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
-    <img src="https://example.com/canva-icon.png" alt="Canva" width="40" height="40"/> 
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/canva.svg" alt="sukron" height="30" width="40" />
   </a>
 </p>
 
