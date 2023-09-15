@@ -59,7 +59,7 @@
     </a>
   </p>
 
- <h4>Alat Desain</h4>
+<h4>Alat Desain</h4>
 <p>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
     <img src="https://example.com/figma-icon.png" alt="Figma" width="40" height="40"/> 
@@ -74,6 +74,7 @@
     <img src="https://example.com/canva-icon.png" alt="Canva" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 </p>
