@@ -58,5 +58,23 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
     </a>
   </p>
+
+ <h4>Alat Desain</h4>
+<p>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
+    <img src="https://example.com/figma-icon.png" alt="Figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://example.com/illustrator-icon.png" alt="Adobe Illustrator" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+    <img src="https://example.com/photoshop-icon.png" alt="Adobe Photoshop" width="40" height="40"/> 
+  </a>
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
+    <img src="https://example.com/canva-icon.png" alt="Canva" width="40" height="40"/> 
+  </a>
+</p>
+
+
 </p>
 
