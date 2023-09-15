@@ -62,7 +62,7 @@
 <h4>Alat Desain</h4>
 <p>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/figma.svg" alt="sukron" height="30" width="40" /> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/figma-alt.svg" alt="figma" height="30" width="40" /> 
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/illustrator.svg" alt="sukron" height="30" width="40" />
