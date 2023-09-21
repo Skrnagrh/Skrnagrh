@@ -45,7 +45,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a> 
     <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> 
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" />
   </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -59,6 +59,25 @@
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+    </a>
+  </p>
+
+  <h4>Tools Design</h4>
+  <p>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40" />
+    </a>
+    <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" alt="coreldraw" width="40" height="40" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
+    </a>
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" />
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
     </a>
   </p>
 </p>
