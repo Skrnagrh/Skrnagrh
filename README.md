@@ -44,6 +44,9 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a> 
+    <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://your-codeigniter-website.com/path-to-your-codeigniter-logo.png" alt="codeigniter" width="40" height="40"/> 
+  </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
