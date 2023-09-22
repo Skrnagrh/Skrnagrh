@@ -76,8 +76,5 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
     </a>
-    <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" alt="coreldraw" width="40" height="40" />
-    </a>
-  </p>
+     </p>
 </p>
