@@ -7,7 +7,7 @@
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrnagrh&theme=github)
 
-- 🌱 Saat ini saya sedang mempelajari **Laravel dan Node Js**
+- 🌱 Saat ini saya sedang mempelajari **Laravel dan Node JS + Express JS**
 
 - 📫 Cara menghubungi saya: **suk12on512@gmail.com**
 
