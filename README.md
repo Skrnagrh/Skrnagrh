@@ -43,7 +43,6 @@
   <p>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> 
     </a> 
     <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" />
@@ -61,8 +60,8 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
     </a>
   </p>
 
@@ -77,8 +76,8 @@
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" />
     </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">       
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"  alt="photoshop" width="40" height="40" />
     </a>
      </p>
 </p>
