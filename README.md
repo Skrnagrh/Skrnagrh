@@ -9,7 +9,7 @@
 
 - 🌱 Saat ini saya sedang mempelajari **Laravel dan Node JS + Express JS**
 
-- 📫 Cara menghubungi saya: **suk12on512@gmail.com**
+- 📫 Cara menghubungi saya: **skrnagrh@gmail.com**
 
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
