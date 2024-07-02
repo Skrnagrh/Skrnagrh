@@ -18,7 +18,7 @@
 
 - 📫 Cara menghubungi saya: **suk12on512@gmail.com**
 
-<h3 align="left">Terhubung dengan saya:</h3>
+<h3 align="left">Portofolio Design:</h3>
 <p align="left">
 <!--   <a href="https://linkedin.com/in/sukron/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukron" height="30" width="40" />
