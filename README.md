@@ -88,13 +88,3 @@
     </a>
      </p>
 </p>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/skrnagrh/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/skrnagrh/skrnagrh/output/snake.svg" alt="Snake animation" />
-
-###
