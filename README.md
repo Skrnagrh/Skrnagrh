@@ -1,90 +1,92 @@
-<h1 align="center">Hi 👋, Saya Sukron</h1>
+<p align="center">
+  <img src="/img/banner.png" alt="Header" />
+</p>
+
 <h3 align="center">Saya seorang Pengembang Perangkat Lunak yang berfokus pada Pemrograman Web.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Skrnagrh&label=Profile%20views&color=0e75b6&style=flat" alt="Skrnagrh" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Skrnagrh&label=Profile%20views&color=0e75b6&style=flat" alt="Skrnagrh" />
 </p>
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrnagrh&theme=github)
-### Github Statistic
+---
+
+### 📊 GitHub Statistik
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrnagrh&theme=algolia" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skrnagrh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skrnagrh&layout=compact&theme=algolia" alt="Top Languages"/>
+</p>
+
+---
+
+### 🚀 Sedang Dipelajari
+
+- Laravel
+- Node.js + Express.js
+
+📫 **Hubungi Saya**: [suk12on512@gmail.com](mailto:suk12on512@gmail.com)
+
+---
+
+### 🎨 Portofolio Desain
+
 <p align="left">
-<a href="https://github.com/skrnagrh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skrnagrh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skrnagrh&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
-
-- 🌱 Saat ini saya sedang mempelajari **Laravel dan Node JS + Express JS**
-
-- 📫 Cara menghubungi saya: **suk12on512@gmail.com**
-
-<h3 align="left">Portofolio Design:</h3>
-<p align="left">
-<!--   <a href="https://linkedin.com/in/sukron/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukron" height="30" width="40" />
-  </a>  
-  <a href="https://www.instagram.com/skrnagrh/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukron" height="30" width="40" />
-  </a>   -->
-  <a href="https://id.pinterest.com/skrnagrh/picsart/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="sukron" height="30" width="40" />
-  </a> 
-</p>
-
-<h3 align="left">Bahasa dan Alat yang Saya Kuasai:</h3>
-<p align="left"> 
-  <h4>Backend Stacks</h4>
-  <p>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-      </p>
-  
-  <h4>Backend Frameworks</h4>
-  <p>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-    </a> 
-    <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40" />
+  <a href="https://id.pinterest.com/sedotwcone" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" width="30" height="30"/>
   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-  </p>
-
-  <h4>Frontend Framework</h4>
-  <p>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
-    </a>
-  </p>
-
-  <h4>Tools Design</h4>
-  <p>
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">       
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"  alt="photoshop" width="40" height="40" />
-    </a>
-     </p>
+  <a href="https://www.behance.net/sedotwcone" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="30" height="30"/>
+  </a>
 </p>
+
+---
+
+### 🛠️ Bahasa & Alat yang Dikuasai
+
+#### 🔧 Backend Stacks
+
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=java,php,js" />
+</p>
+
+#### 🧱 Backend Frameworks
+
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
+</p>
+
+#### 🎨 Frontend Frameworks
+
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue" />
+</p>
+
+#### 🖌️ Tools Desain
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+  Terima kasih telah mengunjungi profil saya! Jangan lupa follow dan kasih ⭐️ ya kalau suka dengan project saya 😄
+</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skrnagrh/skrnagrh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skrnagrh/skrnagrh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/skrnagrh/skrnagrh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
